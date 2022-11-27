@@ -1,16 +1,36 @@
-### Hi there 👋
+### Welcome 
 
-<!--
-**sunman54/sunman54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Sunman 
+# Junior Data Engineer
 
-Here are some ideas to get you started:
+## About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Hacettepe University Computer Engineering Senior Student
+- Freelance Web Developer
+- Machine Learning and Backend Pogrammer
+
+
+## Abilities 
+
+#### Python
+- Flask
+- Paramiko
+- Data processing : Numpy, Pandas, Matplotlib
+- Machine Learning : Sckitlearn, PyTorch, TensorFlow, Keras
+- Deep Learning : CNN
+#### Web
+- HTML
+- CSS
+- WordPress
+- Hosting
+  
+#### JavaScripts
+- React
+- Doom
+
+#### Others 
+- Linux
+- Git
+- Github
+- Cisco Packet Tracer 
+- WireShark
