@@ -1,34 +1,36 @@
-### Welcome 
+### Welcome :wave:
+ 
+## I'm Sunman  :sunrise:
+# Junior Data Engineer 
 
-## I'm Sunman 
-# Junior Data Engineer
-
-## About Me 
+## :page_facing_up:About Me 
 
 - Hacettepe University Computer Engineering Senior Student
 - Freelance Web Developer
 - Machine Learning and Backend Pogrammer
 
 
-## Abilities 
+## :muscle:Abilities 
 
-#### Python
+#### :snake:Python 
 - Flask
 - Paramiko
 - Data processing : Numpy, Pandas, Matplotlib
 - Machine Learning : Sckitlearn, PyTorch, TensorFlow, Keras
 - Deep Learning : CNN
-#### Web
+  
+#### :bulb: Programing Languages
+- JavaScripts : React ,  Doom
+- Java : OOP
+- C++ : OOP
+
+#### :globe_with_meridians:Web
 - HTML
 - CSS
 - WordPress
 - Hosting
-  
-#### JavaScripts
-- React
-- Doom
 
-#### Others 
+#### :computer:Others 
 - Linux
 - Git
 - Github
