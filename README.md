@@ -1,7 +1,7 @@
 ### Welcome :wave:
  
 ## I'm Sunman  :sunrise:
-# Junior Data Engineer 
+# Software Engineer 
 
 ## :page_facing_up:About Me 
 
