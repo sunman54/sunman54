@@ -1,6 +1,8 @@
 ### Welcome :wave:
  
 ## I'm Sunman  :sunrise:
+
+[![Linkedin: sunman54](https://img.shields.io/badge/-tintinweb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunman54)](https://www.linkedin.com/in/sunman54) 
 # Software Engineer 
 
 ## :page_facing_up:About Me 
