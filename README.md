@@ -21,7 +21,7 @@
 - Deep Learning : CNN
   
 #### :bulb: Programing Languages
-- JavaScripts : React ,  Doom
+- JavaScripts : React 
 - Java : OOP
 - C++ : OOP
 
