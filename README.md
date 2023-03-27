@@ -1,8 +1,6 @@
 ### Welcome :wave:
  
-## I'm Sunman  :sunrise:
-
-## This is my portfolio website >> https://sunman54.github.io/
+## I'm Sunman  :sunrise: https://sunman54.github.io/
 
 # Software Engineer 
 
