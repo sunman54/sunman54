@@ -6,11 +6,10 @@
 
 ## :page_facing_up:About Me 
 
-- Hacettepe University Computer Engineering Senior Student
+- Hacettepe University Computer Engineering
 - Freelance Web Developer
 - Machine Learning and Backend Pogrammer
-
-
+  
 
 ## :muscle:Abilities 
 
