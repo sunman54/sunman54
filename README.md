@@ -6,9 +6,10 @@
 
 ## :page_facing_up:About Me 
 
+- Full Stack Software Engineer
 - Hacettepe University Computer Engineering
 - Freelance Web Developer
-- Machine Learning and Backend Pogrammer
+
   
 
 ## :muscle:Abilities 
