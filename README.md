@@ -11,7 +11,7 @@
 - Freelance Web Developer
 
   
-
+[comment]: <> (
 ## :muscle:Abilities 
 
 #### :snake:Python 
@@ -38,3 +38,4 @@
 - Github
 - Cisco Packet Tracer 
 - WireShark
+  )
