@@ -28,6 +28,8 @@
 #### :globe_with_meridians:Web
 - HTML
 - CSS
+- React
+- Svelte
 - WordPress
 - Hosting
 
